@@ -1,0 +1,30 @@
+.container {
+padding: 20px;
+}
+
+.container-fluid {
+  text-align: right;
+}
+
+.teks {
+  padding-top: 160px;
+  padding-bottom: 100px;
+  padding-left: 211px;
+  padding-right: 201px;
+  text-align: justify;
+}
+
+.logo {
+  padding-top: 20px;
+  width: 256px;
+  height: 256px;
+}
+
+.footer {
+  background-color: rgb(170, 168, 168);
+  color: black;
+}
+
+.kard {
+  background-color: rgb(253, 253, 253);
+}

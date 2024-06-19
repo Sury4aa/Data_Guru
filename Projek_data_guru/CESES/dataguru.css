@@ -1,0 +1,29 @@
+.container {
+    width: 800px;
+    margin: auto;
+    padding-top: 7px;
+    padding-bottom: 200px;
+  }
+  
+  .head {
+    text-align: center;
+  }
+  
+  table,
+  th,
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    padding: 7px;
+  }
+
+  .card {
+    background-color: rgb(161, 159, 159);
+    color: black;
+  }
+  
+  .kard {
+    background-color: rgb(206, 206, 206);
+  }
+
